@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ListView_Bai2</string>
+    <string name="Record">re</string>
+    <string name="record">Record</string>
+    <string name="shot_views">Shot Views</string>
+    <string name="clients">Clients</string>
+    <string name="impacted">Impacted</string>
+    <string name="_211">211</string>
+    <string name="_327">327</string>
+    <string name="following">Following</string>
+    <string name="_1997">1997</string>
+    <string name="_112">$112</string>
+    <string name="thin_face_needle">Thin face needle</string>
+    <string name="north_sylvanlad">North Sylvanlad</string>
+    <string name="_07am_05pm">07am - 05pm</string>
+    <string name="_273">$273</string>
+    <string name="hydro_lifting">Hydro lifting</string>
+    <string name="korea">Korea</string>
+    <string name="_08am_05pm">08am - 05pm</string>
+    <string name="_97">$97</string>
+    <string name="eyelid_surgery">Eyelid Surgery</string>
+    <string name="seoul">Seoul</string>
+    <string name="_08am_07pm">08am - 07pm</string>
+    <string name="_230">$230</string>
+    <string name="hyaluronic_acid">Hyaluronic Acid</string>
+    <string name="new_york_city">New York City</string>
+    <string name="_08am_04pm">08am - 04pm</string>
+    <string name="more">more</string>
+</resources>
